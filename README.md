@@ -1,6 +1,6 @@
 # 🧠 AI Hiring Intelligence Suite
 An AI-powered recruitment ecosystem designed to rethink how hiring works — for both recruiters and candidates.
-
+Live Demo : https://ai-hiring-intelligence-system-w4tyzgq5wvspcherkzvu9w.streamlit.app/
 This platform doesn’t just “scan resumes.”
 It simulates real-world hiring intelligence.
 
