@@ -4,6 +4,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import re
 import random
+import os
 from openai import OpenAI
 import plotly.graph_objects as go
 import plotly.express as px
