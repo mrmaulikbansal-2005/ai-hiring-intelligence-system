@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# API Keys / Secrets
+.env
+secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
